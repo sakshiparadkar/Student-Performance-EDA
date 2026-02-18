@@ -30,17 +30,15 @@ The dataset includes the following features:
 - Plotly (3D Visualization)
 - Scikit-learn (Scaling techniques)
 
----
+
 
 ## 🔎 Steps Performed in This Project
 
 ### 1️⃣ Data Cleaning
 - Loaded dataset using Pandas
 - Checked for missing values
-- Verified data types
-
----
-
+- Verified data type
+- 
 ### 2️⃣ Descriptive Statistics
 
 Calculated:
@@ -57,7 +55,7 @@ This helped in understanding:
 ### 📊 Key Observation:
 Most academic score variables show near-symmetric distribution, indicating balanced performance spread.
 
----
+
 
 ### 3️⃣ Distribution Analysis
 
@@ -109,7 +107,7 @@ Purpose:
 - Normalize feature range
 - Prepare dataset for machine learning algorithms
 
----
+
 
 ### 7️⃣ 3D Visualization
 
@@ -118,9 +116,7 @@ Created 3D Scatter Plot using Plotly to visualize relationships between:
 - Science Score
 - English Score
 
-This helped in visually understanding clustering patterns.
 
----
 
 ## 📈 Key Insights
 
@@ -129,8 +125,6 @@ This helped in visually understanding clustering patterns.
 - Minimal skewness observed.
 - Study hours and attendance show consistent spread.
 - Dataset is suitable for predictive modeling.
-
----
 
 ## 🚀 Future Scope
 
@@ -163,6 +157,7 @@ Upload the dataset file StudentsPerformance_Final.csv
 Run each cell step by step
 
 🔹 Option 2: Run on Local Machine (Jupyter Notebook)
+
 Step 1: Clone the repository
 git clone https://github.com/sakshi07p/Student-Performance-EDA.git
 
@@ -177,11 +172,6 @@ jupyter notebook
 Then open:
 EDA1.ipynb
 
-⚙️ Requirements
-
-Python 3.x
-Jupyter Notebook or Google Colab
-Required libraries listed above
 
 
 
