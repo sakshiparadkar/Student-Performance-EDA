@@ -6,7 +6,6 @@ This project focuses on performing an in-depth Exploratory Data Analysis (EDA) o
 
 EDA helps in identifying trends, detecting outliers, understanding feature relationships, and validating assumptions before model building.
 
----
 
 ## 📂 Dataset Information
 
@@ -20,9 +19,6 @@ The dataset includes the following features:
 - AttendanceRate
 - PreferredSubject
 
-(Note: The column `test preparation course` was removed during preprocessing as part of data cleaning.)
-
----
 
 ## 🛠 Tools & Libraries Used
 
@@ -41,7 +37,6 @@ The dataset includes the following features:
 ### 1️⃣ Data Cleaning
 - Loaded dataset using Pandas
 - Checked for missing values
-- Dropped unnecessary column (`test preparation course`)
 - Verified data types
 
 ---
@@ -75,7 +70,6 @@ Purpose:
 - Check categorical balance
 - Visualize data spread
 
----
 
 ### 4️⃣ Outlier Detection
 
@@ -89,7 +83,6 @@ Purpose:
 Result:
 No severe outliers affecting the dataset significantly.
 
----
 
 ### 5️⃣ Correlation Analysis
 
@@ -146,7 +139,6 @@ This helped in visually understanding clustering patterns.
 - Build Regression Model for Score Prediction
 - Implement Classification Algorithms
 
----
 
 ## 🎯 Conclusion
 
@@ -158,19 +150,38 @@ This project strengthened my understanding of:
 - Data Visualization
 - Data Preprocessing for ML
 
-It serves as a strong foundation for transitioning into Machine Learning projects.
+▶️ How to Run This Project
+🔹 Option 1: Run on Google Colab (Recommended)
 
----
+Open the notebook file EDA1.ipynb
+Upload it to Google Colab
+Upload the dataset file StudentsPerformance_Final.csv
+Run each cell step by step
 
-## 📁 Project Structure
+🔹 Option 2: Run on Local Machine (Jupyter Notebook)
+Step 1: Clone the repository
+git clone https://github.com/sakshi07p/Student-Performance-EDA.git
 
-Student-Performance-EDA/
-│
-├── EDA1.ipynb
-├── StudentsPerformance_Final.csv
-└── README.md
+Step 2: Navigate to project folder
+cd Student-Performance-EDA
 
----
+Step 3: Install required libraries
+pip install pandas numpy matplotlib seaborn plotly scikit-learn
 
-📌 Developed as part of my Data Analytics & Machine Learning learning journey.
+Step 4: Run Jupyter Notebook
+jupyter notebook
+Then open:
+EDA1.ipynb
+
+⚙️ Requirements
+
+Python 3.x
+Jupyter Notebook or Google Colab
+Required libraries listed above
+
+
+
+
+
+
 
