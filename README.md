@@ -154,8 +154,11 @@ This project strengthened my understanding of:
 🔹 Option 1: Run on Google Colab (Recommended)
 
 Open the notebook file EDA1.ipynb
+
 Upload it to Google Colab
+
 Upload the dataset file StudentsPerformance_Final.csv
+
 Run each cell step by step
 
 🔹 Option 2: Run on Local Machine (Jupyter Notebook)
