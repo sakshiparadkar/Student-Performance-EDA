@@ -151,6 +151,7 @@ This project strengthened my understanding of:
 - Data Preprocessing for ML
 
 ▶️ How to Run This Project
+
 🔹 Option 1: Run on Google Colab (Recommended)
 
 Open the notebook file EDA1.ipynb
