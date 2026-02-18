@@ -5,7 +5,6 @@ Exploratory Data Analysis on Student Performance Dataset using Python
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) on a Student Performance dataset using Python. The objective was to understand data distribution, detect outliers, analyze relationships between variables, and prepare the dataset for future Machine Learning applications.
 
----
 
 ## 🔍 Project Objectives
 
@@ -17,8 +16,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on a Stude
 - Identify relationships using Correlation Heatmap
 - Apply data scaling techniques
 - Visualize data using 2D and 3D plots
-
----
+- 
 
 ## 📈 Key Insights
 
@@ -27,7 +25,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on a Stude
 - Dataset is well-balanced and suitable for ML modeling.
 - No extreme skewness detected in numerical features.
 
----
+
 
 ## 🛠️ Technologies & Libraries Used
 
@@ -39,7 +37,6 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on a Stude
 - Plotly
 - Scikit-learn
 
----
 
 ## ⚙️ Techniques Applied
 
